@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vincentprudhomme
-- 👀 I’m interested in Data Science, Python automation, RPI and Big data architecture
+- 👀 I’m interested in Data Science & engineering, Python automation, RPI and Big data architecture
 - 🌱 I’m currently learning Python and Scala
 - 💞️ I’m looking to collaborate on nothing special
 - 📫 How to reach me vincent.prudhomme@outlook.com
